@@ -3,8 +3,8 @@ def safe_print_list(my_list=[], x=0):
 	count = 0
 	for num in range(x):
 		try:
-		print("{}".format(my_list[num1]), end="")
-		count = count + 1
+			print("{}".format(my_list[num]), end="")
+			count = count + 1
 		except (ValueError, TypeError, IndexError):
 			break
 	print()
