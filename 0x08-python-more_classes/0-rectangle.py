@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-# 0-rectangle.py
-# Naheemah Bello
-"""Defines a Rectangle class."""
+"""
+Defining an empty class Rectangle
+"""
 
 
 class Rectangle:
-    """Represent a rectangle."""
+    """Empty representation of a Rectangle"""
     pass
