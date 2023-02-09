@@ -1,8 +1,11 @@
 #!/usr/bin/python3
-"""this module returns a list object"""
 
+"""
+    module lookup contains a method that returns
+    attributes and methods of an object
+"""
 
 
 def lookup(obj):
-    """this returns list object"""
+    """ returns list of attributes and methods of an object """
     return dir(obj)
