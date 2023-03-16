@@ -1,1 +1,1 @@
-This is a sql introduction readme
+SQL repo
