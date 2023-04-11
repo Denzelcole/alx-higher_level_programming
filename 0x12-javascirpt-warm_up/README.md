@@ -1,1 +1,1 @@
-This is a javascript learning repo
+This is a javascript repo
