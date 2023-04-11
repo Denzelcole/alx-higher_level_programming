@@ -1,1 +1,1 @@
-This is a javascript repo
+This is a higher level javascript language
